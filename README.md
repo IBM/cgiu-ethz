@@ -57,6 +57,7 @@
 * CGIU Initiative - https://www.clintonfoundation.org/clinton-global-initiative/meetings/cgi-university
 * IBM Careers - https://www-03.ibm.com/employment/us/entry_level_campus.shtml
 * Visual Recognition Demo - https://github.com/IBM/drones-iot-visual-recognition
+* IBM PAIRS (Physical Analytics Integrated Data Repository and Services) - https://ibmpairs.mybluemix.net/
 
 ## Social Media Info
 - Dennis Bly - [@dennisbly](https://twitter.com/dennisbly)
